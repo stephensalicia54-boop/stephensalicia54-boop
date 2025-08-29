@@ -1,4 +1,4 @@
-![decorative banner image](GitHUB.png)  
+![decorative banner image](GitHUB(1).png)  
 
 <h1>Hi 👋, I'm Alicia</h1>
 <p>I've been a student programmer and Designer for 3 years and I have designed a lot of layout's for projects through Canva,</p>
